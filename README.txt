@@ -1,1 +1,1 @@
-Greetings! 
+Greetings! This is my portofolio website. Feel free to come anytime :)
