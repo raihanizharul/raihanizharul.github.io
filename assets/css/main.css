@@ -142,10 +142,10 @@ input, select, textarea {
 			}
 
 		}
-		.profile-picture{
+
+		.profile-picture {
 			border-radius: 50%;
-			width: 150px;
-			
+			width: 150px;	
 		}
 
 	body {
