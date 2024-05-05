@@ -142,6 +142,11 @@ input, select, textarea {
 			}
 
 		}
+		.profile-picture{
+			border-radius: 50%;
+			width: 150px;
+			
+		}
 
 	body {
 		color: #212931;
